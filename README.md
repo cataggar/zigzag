@@ -1,7 +1,7 @@
 <div align="center">
   <h1>ZigZag</h1>
 
-  <p>A batteries-included TUI framework for Zig.</p>
+  <p>A TUI framework for Zig.</p>
 
   <p>
     <a href="https://github.com/meszmate/zigzag/actions"><img src="https://img.shields.io/github/actions/workflow/status/meszmate/zigzag/ci.yml?branch=main&style=flat-square&label=CI" alt="CI status" /></a>
